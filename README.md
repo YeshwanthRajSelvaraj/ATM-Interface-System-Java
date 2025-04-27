@@ -1,5 +1,5 @@
 # ATM-Interface-System-Java
-ATM interface system built with Java featuring login authentication, transactions, and PIN management.
+ATM interface system built with Java and Swing, featuring login authentication, transactions, and PIN management.
 # ATM Interface System - Java
 
 This project simulates a professional **ATM Interface System** built using **Java Swing** for GUI.  
