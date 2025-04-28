@@ -21,14 +21,7 @@ It offers users functionality such as login authentication, withdrawal, deposit,
 - Java (JDK 8+)
 - Swing (for GUI Development)
 
-## Project Structure
-
-```plaintext
-src/
-├── Account.java        // Account class to store user information
-├── ATMGUI.java          // Login interface
-├── ATMOperations.java   // ATM main menu and operations
-└── ATMSystem.java       // Entry point (main class)
+## How to Run
 
 How to Run
 Clone the repository:
@@ -43,3 +36,15 @@ javac *.java
 Run the main class:
 
 java ATMSystem
+
+
+
+## Project Structure
+
+```plaintext
+src/
+├── Account.java        // Account class to store user information
+├── ATMGUI.java          // Login interface
+├── ATMOperations.java   // ATM main menu and operations
+└── ATMSystem.java       // Entry point (main class)
+
