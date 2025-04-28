@@ -25,7 +25,6 @@ It offers users functionality such as login authentication, withdrawal, deposit,
 
 ```How to Run!!🚀
 
-How to Run
 Clone the repository:
 
 git clone https://github.com/your-username/ATM-Interface-System-Java.git
