@@ -29,3 +29,17 @@ src/
 ├── ATMGUI.java          // Login interface
 ├── ATMOperations.java   // ATM main menu and operations
 └── ATMSystem.java       // Entry point (main class)
+
+How to Run
+Clone the repository:
+
+git clone https://github.com/your-username/ATM-Interface-System-Java.git
+Navigate to the src/ folder.
+
+Compile the project:
+
+javac *.java
+
+Run the main class:
+
+java ATMSystem
